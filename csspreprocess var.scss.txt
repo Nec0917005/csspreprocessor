@@ -1,0 +1,4 @@
+$mycolor:#000056;
+.myDiv{
+  color: $mycolor;
+}
