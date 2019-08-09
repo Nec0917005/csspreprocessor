@@ -1,0 +1,5 @@
+@for $vfoo  from 35px to 85px{
+  .hi-#{vfoo}{
+    dinesh:$vfoo 1.41pm;
+  }
+}
